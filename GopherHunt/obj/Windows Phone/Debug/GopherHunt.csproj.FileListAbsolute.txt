@@ -1,1 +1,14 @@
 D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\GopherHunt.csprojResolveAssemblyReference.cache
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\Content\gamefont.xnb
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\Content\sprites\smileyanim.xnb
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\GopherHunt.dll
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\GopherHunt.pdb
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\GopherHunt.dll
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\GopherHunt.pdb
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\bin\Windows Phone\Debug\GopherHunt.xap
+D:\Users\Never\Documents\Visual Studio 2010\Projects\GopherHunt\GopherHunt\obj\Windows Phone\Debug\XapCacheFile.xml

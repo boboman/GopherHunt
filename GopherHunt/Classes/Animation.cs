@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace GopherHunt.Classes
 {
-    class Animation
+    public class Animation
     {
         int index;
         Texture2D texture;
